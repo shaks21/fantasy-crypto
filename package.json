@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    
+      "export": "next export"
+  
   },
   "dependencies": {
     "@types/node": "20.2.5",
@@ -26,4 +29,7 @@
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.37.4"
   }
+
+  
 }
+
