@@ -1,0 +1,50 @@
+Certainly! I can describe and provide a high-level overview of some UI screens based on the mechanics we have agreed upon. Please keep in mind that these are general suggestions, and you can customize and expand on these ideas based on your specific requirements and design preferences. Here are some UI screens to consider:
+
+1. Home Screen:
+   - Welcome users to the Fantasy Crypto game.
+   - Display an overview of the game, including key features, rules, and rewards.
+   - Provide options to sign in or register for a new account.
+
+2. Portfolio Screen:
+   - Show the user's portfolio of selected cryptocurrencies.
+   - Display the current value of each cryptocurrency and the overall portfolio value.
+   - Allow users to view detailed information about each cryptocurrency, such as price, market cap, and performance metrics.
+   - Provide options to buy or sell cryptocurrencies within the portfolio.
+
+3. Draft Screen:
+   - Present the available cryptocurrencies for selection in a visually appealing manner.
+   - Show the participant's budget or number of selections remaining.
+   - Allow participants to search, filter, and sort cryptocurrencies based on different criteria.
+   - Enable participants to select cryptocurrencies for their portfolios and confirm their choices.
+
+4. Market Data Screen:
+   - Provide real-time or simulated market data for various cryptocurrencies.
+   - Display charts or graphs to visualize price trends and performance over time.
+   - Include interactive elements to switch between different cryptocurrencies or time periods for data analysis.
+
+5. Leagues Screen:
+   - Show a list of available leagues or leagues that the participant has joined.
+   - Display league standings, including participants' rankings and their total points.
+   - Allow participants to join or create new leagues and invite others to join.
+   - Provide options to view league details, match schedules, and results.
+
+6. Match Screen:
+   - Present the head-to-head matches between participants' portfolios.
+   - Show the performance of each portfolio during the match period.
+   - Display real-time updates on the match progress and overall standings.
+   - Provide options to view detailed match results and compare portfolios.
+
+7. Leaderboard Screen:
+   - Display the overall leaderboard with participants' rankings and total points.
+   - Highlight the top performers or winners of leagues or the entire game.
+   - Show participants' avatars or usernames along with their respective points.
+
+8. Notifications and Alerts:
+   - Provide notifications and alerts for important events, such as successful trades, match results, or league invitations.
+   - Display alerts for budget limitations, upcoming matches, or significant changes in cryptocurrency prices.
+
+Remember to incorporate vibrant colors, attractive visual elements, and interactive components throughout the UI screens to create an engaging and visually appealing experience for the players.
+
+For a more detailed and visual representation of the UI screens, it would be helpful to collaborate with a UI/UX designer who can create wireframes or mockups based on your requirements and preferences. This will ensure that the final UI aligns with your vision for the game.
+
+Let me know if you have any specific questions or if there's anything else I can assist you with!

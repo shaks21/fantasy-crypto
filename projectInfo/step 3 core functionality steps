@@ -1,0 +1,30 @@
+That's correct. Steps 1 and 2 focused on setting up the core functionalities of user authentication and database integration. At this point, you have implemented user registration and login functionality using NextAuth.js or a similar authentication library, and you have integrated MongoDB as your database and defined the necessary data models using Mongoose.
+
+Moving forward, you can proceed with Step 3: Implementing Core Functionality. This step involves building the pages and components necessary for your Fantasy Crypto game. Here are the key aspects to consider during this phase:
+
+1. Create the necessary pages:
+   - Implement pages for user registration, login, and account management.
+   - Build pages for creating and joining leagues.
+   - Design pages for managing portfolios, including buying and selling cryptocurrencies.
+   - Create pages for viewing league standings, participant rankings, and match results.
+
+2. Develop components:
+   - Build reusable components that can be used across multiple pages, such as navigation menus, user avatars, and data displays.
+   - Implement components for displaying cryptocurrency prices, portfolio performance, and league information.
+   - Develop components for handling user interactions, such as form inputs, buttons, and modals.
+
+3. Connect pages and components to data:
+   - Retrieve data from your MongoDB database using Mongoose and populate the pages and components with the relevant information.
+   - Implement logic for fetching real-time or simulated crypto market data from external APIs and update the relevant components with the latest information.
+
+4. Handle user actions and events:
+   - Implement logic to handle user actions such as registering, logging in, buying/selling cryptocurrencies, joining leagues, and submitting transactions.
+   - Define event handlers for updating data, refreshing page content, and triggering notifications or alerts.
+
+5. Apply styling and UI design:
+   - Use CSS frameworks or custom styling to create an attractive and user-friendly interface for your game.
+   - Apply consistent styling across pages and components to maintain a cohesive design.
+
+Throughout the implementation of Step 3, you can leverage the Next.js framework and the React component model to create dynamic and interactive pages. Make sure to break down the implementation into smaller tasks, test your components and pages, and handle errors and validation appropriately.
+
+Let me know if you have any specific questions or need further guidance as you proceed with implementing the core functionality and building the pages and components for your Fantasy Crypto game!

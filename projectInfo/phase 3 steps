@@ -1,0 +1,49 @@
+Great! Moving on to Step 3: Implementing Core Functionality. This step involves implementing the core features and functionality of the Fantasy Crypto game. Here are the key aspects to consider during this phase:
+
+1. User Authentication:
+   - Implement user registration and login functionality to allow participants to create accounts and authenticate themselves.
+   - Use authentication libraries or frameworks compatible with Next.js, such as NextAuth.js or Firebase Authentication.
+
+2. Database Integration:
+   - Integrate MongoDB, which you mentioned earlier, as the database to store user data, portfolios, league information, and other relevant game data.
+   - Set up database connections and define appropriate data models using an ORM (Object-Relational Mapping) library like Mongoose.
+
+3. Crypto Data Integration:
+   - Implement mechanisms to fetch real-time or simulated crypto market data from external APIs or data providers.
+   - Retrieve cryptocurrency prices, market trends, and other relevant data to populate the game interface and provide up-to-date information to participants.
+   - You may consider using popular crypto data APIs such as CoinGecko, CoinMarketCap, or CryptoCompare.
+
+4. Portfolio Management:
+   - Create functionality for participants to buy and sell cryptocurrencies within their portfolios.
+   - Implement transaction tracking, balance management, and validation of budget constraints or transaction limits.
+   - Update portfolio values based on real-time or simulated crypto prices and calculate performance metrics.
+
+5. Draft Mechanism:
+   - Develop the draft mechanism to allow participants to select cryptocurrencies for their portfolios.
+   - Implement the logic for budget allocation or the number of selections available to participants during the draft process.
+   - Handle conflicts or constraints, such as preventing multiple participants from selecting the same cryptocurrency.
+
+6. Points Calculation:
+   - Implement the logic for calculating points based on the defined performance metrics.
+   - Consider the weightage of different metrics and how they contribute to the overall points earned by participants.
+   - Update and display participants' point totals in real-time based on changes in cryptocurrency prices or other relevant factors.
+
+7. League Management:
+   - Create functionality to allow participants to join existing leagues or create their own leagues.
+   - Implement league creation, participant management, and scoring rules specific to each league.
+   - Update league standings and rankings based on participants' performance and points earned.
+
+8. Match and Competition Mechanism:
+   - Develop the mechanism for head-to-head matches between participants' portfolios.
+   - Implement match scheduling, duration, and result calculation based on portfolio performance during the match period.
+   - Update participants' standings and display match results in real-time.
+
+9. Notifications and Alerts:
+   - Implement mechanisms to send notifications and alerts to participants for important game events, such as match results, trade confirmations, or league invitations.
+   - Use appropriate notification libraries or services to deliver real-time updates to participants.
+
+During this phase, it's crucial to follow best practices in coding, modularize your codebase, and ensure proper error handling and validation. Additionally, consider implementing unit tests to verify the functionality of your core features and ensure a robust and reliable game experience.
+
+Remember to leverage the Next.js framework, TypeScript, and other relevant libraries or packages specific to your project requirements. Breaking down the core functionality into smaller tasks and milestones can help you manage the implementation process more effectively.
+
+Let me know if you have any specific questions or need further assistance with any of these core functionalities!
