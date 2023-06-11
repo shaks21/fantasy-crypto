@@ -28,7 +28,7 @@ const HomePage: React.FC = () => {
             Log in
           </Link>
           <p className="text-white mt-4">
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <Link href="/register" className="underline">
               Register here
             </Link>
